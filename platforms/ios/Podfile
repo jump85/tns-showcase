@@ -1,0 +1,8 @@
+use_frameworks!
+
+target "arteriamobileios" do
+# Begin Podfile - /Users/giampaolo/NetBeansProjects/arteria-mobile-ios/node_modules/nativescript-google-maps-sdk/platforms/ios/Podfile 
+ pod 'GoogleMaps' 
+ # End Podfile 
+
+end
