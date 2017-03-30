@@ -7,4 +7,8 @@ import { Component, ChangeDetectionStrategy } from '@angular/core';
 })
 export class ContactComponent {
     text: string = 'Contact Page';
+
+
 }
+
+

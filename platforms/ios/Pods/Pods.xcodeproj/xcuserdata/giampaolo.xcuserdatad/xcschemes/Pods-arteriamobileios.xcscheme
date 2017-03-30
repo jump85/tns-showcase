@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'DAB9BB7A490F4276CBCC6D4AFC050429'
+               BlueprintIdentifier = '01929E5A566EFA680A9E511150BE43C8'
                BlueprintName = 'Pods-arteriamobileios'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods-arteriamobileios.framework'>
