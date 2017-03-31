@@ -2,176 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44b746f5-c0a9-4fb8-bdf2-528471344e91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App_Resources/Android/google-services.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Pods_arteriamobileios.framework/Pods_arteriamobileios" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Pods_arteriamobileios.framework/Pods_arteriamobileios" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Pods_arteriamobileios.framework/_CodeSignature/CodeDirectory" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Pods_arteriamobileios.framework/_CodeSignature/CodeDirectory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Pods_arteriamobileios.framework/_CodeSignature/CodeRequirements-1" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Pods_arteriamobileios.framework/_CodeSignature/CodeRequirements-1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app.dSYM/Contents/Resources/DWARF/arteriamobileios" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app.dSYM/Contents/Resources/DWARF/arteriamobileios" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/Assets.car" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/Assets.car" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/Frameworks/NativeScript.framework/Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/Frameworks/NativeScript.framework/Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/Frameworks/TKLiveSync.framework/Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/Frameworks/TKLiveSync.framework/Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/arteriamobileios" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/arteriamobileios" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-i386.bin" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-i386.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-x86_64.bin" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-x86_64.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/arteriamobileios-Prefix-eoxzqrrakzncmqgmpmrkgnmsznyx/arteriamobileios-Prefix.pch.pch" afterPath="$PROJECT_DIR$/platforms/ios/build/sharedpch/arteriamobileios-Prefix-eoxzqrrakzncmqgmpmrkgnmsznyx/arteriamobileios-Prefix.pch.pch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/arteriamobileios-Prefix-hdjwzicbivtpdwfoymfozqtfyhnr/arteriamobileios-Prefix.pch.pch" afterPath="$PROJECT_DIR$/platforms/ios/build/sharedpch/arteriamobileios-Prefix-hdjwzicbivtpdwfoymfozqtfyhnr/arteriamobileios-Prefix.pch.pch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/NativeScript.framework/Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/internal/NativeScript.framework/Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/TKLiveSync.framework/Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/internal/TKLiveSync.framework/Info.plist" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/app.module.js" afterPath="$PROJECT_DIR$/app/modules/app.module.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/app.module.ts" afterPath="$PROJECT_DIR$/app/modules/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/contact/contact.component.js" afterPath="$PROJECT_DIR$/app/modules/contact/contact.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/contact/contact.component.ts" afterPath="$PROJECT_DIR$/app/modules/contact/contact.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build.gradle" afterPath="$PROJECT_DIR$/platforms/android/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/home/home.component.html" afterPath="$PROJECT_DIR$/app/modules/home/home.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/home/home.component.js" afterPath="$PROJECT_DIR$/app/modules/home/home.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/modules/home/home.component.ts" afterPath="$PROJECT_DIR$/app/modules/home/home.component.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/.nsprepareinfo" afterPath="$PROJECT_DIR$/platforms/ios/.nsprepareinfo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Podfile" afterPath="$PROJECT_DIR$/platforms/ios/Podfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Podfile.lock" afterPath="$PROJECT_DIR$/platforms/ios/Podfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Manifest.lock" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Manifest.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/giampaolo.xcuserdatad/xcschemes/Pods-arteriamobileios.xcscheme" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/giampaolo.xcuserdatad/xcschemes/Pods-arteriamobileios.xcscheme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/giampaolo.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/giampaolo.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios-acknowledgements.markdown" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios-acknowledgements.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios-acknowledgements.plist" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios-acknowledgements.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios-frameworks.sh" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios-frameworks.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios-resources.sh" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios-resources.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios.debug.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios.debug.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios.release.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-arteriamobileios/Pods-arteriamobileios.release.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios.xcodeproj/xcshareddata/xcschemes/arteriamobileios.xcscheme" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios.xcodeproj/xcshareddata/xcschemes/arteriamobileios.xcscheme" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/app.module.js" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/app.module.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/app.module.ts" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/contact/contact.component.js" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/contact/contact.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/contact/contact.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/contact/contact.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/arteriamobileios-Prefix.pch" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/arteriamobileios-Prefix.pch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/build-debug.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/build-debug.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/build-release.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/build-release.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/build.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/build.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/en.lproj/InfoPlist.strings" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/en.lproj/InfoPlist.strings" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/.nsbuildinfo" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/.nsbuildinfo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/_CodeSignature/CodeResources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/app/modules/contact/contact.component.js" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/app/modules/contact/contact.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/app/modules/contact/contact.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/arteriamobileios.app/app/modules/contact/contact.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-generation-stderr-i386.txt" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-generation-stderr-i386.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-generation-stderr-x86_64.txt" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/metadata-generation-stderr-x86_64.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/umbrella-i386.h" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/umbrella-i386.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/umbrella-x86_64.h" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/umbrella-x86_64.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/prepared-platforms.json" afterPath="$PROJECT_DIR$/platforms/ios/build/prepared-platforms.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/arteriamobileios-Prefix-eoxzqrrakzncmqgmpmrkgnmsznyx/arteriamobileios-Prefix.pch.data" afterPath="$PROJECT_DIR$/platforms/ios/build/sharedpch/arteriamobileios-Prefix-eoxzqrrakzncmqgmpmrkgnmsznyx/arteriamobileios-Prefix.pch.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/sharedpch/arteriamobileios-Prefix-hdjwzicbivtpdwfoymfozqtfyhnr/arteriamobileios-Prefix.pch.data" afterPath="$PROJECT_DIR$/platforms/ios/build/sharedpch/arteriamobileios-Prefix-hdjwzicbivtpdwfoymfozqtfyhnr/arteriamobileios-Prefix.pch.data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/NativeScript.framework/Headers/NativeScript.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/NativeScript.framework/Headers/NativeScript.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/NativeScript.framework/Headers/TNSRuntime+Diagnostics.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/NativeScript.framework/Headers/TNSRuntime+Diagnostics.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/NativeScript.framework/Headers/TNSRuntime+Inspector.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/NativeScript.framework/Headers/TNSRuntime+Inspector.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/NativeScript.framework/Headers/TNSRuntime.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/NativeScript.framework/Headers/TNSRuntime.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/README.md" afterPath="$PROJECT_DIR$/platforms/ios/internal/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/TKLiveSync.framework/Headers/TKLiveSync.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/TKLiveSync.framework/Headers/TKLiveSync.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/TKLiveSync.framework/Modules/module.modulemap" afterPath="$PROJECT_DIR$/platforms/ios/internal/TKLiveSync.framework/Modules/module.modulemap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/TNSDebugging.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/TNSDebugging.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/TNSExceptionHandler.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/TNSExceptionHandler.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/main.m" afterPath="$PROJECT_DIR$/platforms/ios/internal/main.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/asan_blacklist.txt" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/asan_blacklist.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_cmath.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_cmath.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_intrinsics.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_intrinsics.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_math_forward_declares.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_math_forward_declares.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_runtime_wrapper.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_runtime_wrapper.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__stddef_max_align_t.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__stddef_max_align_t.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__wmmintrin_aes.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__wmmintrin_aes.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__wmmintrin_pclmul.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__wmmintrin_pclmul.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/adxintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/adxintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/altivec.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/altivec.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/ammintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/ammintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/arm_acle.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/arm_acle.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/arm_neon.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/arm_neon.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx2intrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx2intrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512bwintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512bwintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512cdintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512cdintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512dqintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512dqintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512erintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512erintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512fintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512fintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512ifmaintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512ifmaintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512ifmavlintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512ifmavlintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512pfintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512pfintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vbmiintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vbmiintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vbmivlintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vbmivlintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vlbwintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vlbwintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vlcdintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vlcdintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vldqintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vldqintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vlintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vlintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avxintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avxintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/bmi2intrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/bmi2intrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/bmiintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/bmiintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/clflushoptintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/clflushoptintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/cpuid.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/cpuid.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/cuda_builtin_vars.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/cuda_builtin_vars.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/emmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/emmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/f16cintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/f16cintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/float.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/float.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/fma4intrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/fma4intrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/fmaintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/fmaintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/fxsrintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/fxsrintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/htmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/htmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/htmxlintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/htmxlintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/ia32intrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/ia32intrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/immintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/immintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/intrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/intrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/inttypes.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/inttypes.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/iso646.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/iso646.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/limits.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/limits.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/lzcntintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/lzcntintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mm3dnow.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mm3dnow.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mm_malloc.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mm_malloc.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/module.modulemap" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/module.modulemap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mwaitxintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mwaitxintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/nmmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/nmmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/omp.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/omp.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/opencl-c.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/opencl-c.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/pkuintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/pkuintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/pmmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/pmmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/popcntintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/popcntintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/prfchwintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/prfchwintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/rdseedintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/rdseedintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/rtmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/rtmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/s390intrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/s390intrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/allocator_interface.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/allocator_interface.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/asan_interface.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/asan_interface.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/common_interface_defs.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/common_interface_defs.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/coverage_interface.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/coverage_interface.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/dfsan_interface.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/dfsan_interface.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/esan_interface.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/esan_interface.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/linux_syscall_hooks.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/linux_syscall_hooks.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/lsan_interface.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/lsan_interface.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/msan_interface.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/msan_interface.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/tsan_interface_atomic.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/tsan_interface_atomic.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/shaintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/shaintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/smmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/smmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdalign.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdalign.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdarg.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdarg.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdatomic.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdatomic.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdbool.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdbool.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stddef.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stddef.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdint.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdint.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdnoreturn.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdnoreturn.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/tbmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/tbmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/tgmath.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/tgmath.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/tmmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/tmmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/unwind.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/unwind.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/vadefs.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/vadefs.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/varargs.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/varargs.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/vecintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/vecintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/wmmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/wmmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/x86intrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/x86intrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xmmintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xmmintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xopintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xopintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsavecintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsavecintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsaveintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsaveintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsaveoptintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsaveoptintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsavesintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsavesintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xtestintrin.h" afterPath="$PROJECT_DIR$/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xtestintrin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/internal/nativescript-build.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/internal/nativescript-build.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/plugins-debug.xcconfig" afterPath="$PROJECT_DIR$/platforms/ios/plugins-debug.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/home/home.component.html" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/home/home.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/home/home.component.js" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/home/home.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/home/home.component.ts" afterPath="$PROJECT_DIR$/platforms/ios/arteriamobileios/app/modules/home/home.component.ts" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -186,13 +28,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/modules/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="424">
+              <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/modules/home/home.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1796">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#79#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -241,18 +95,8 @@
       <file leaf-file-name="about.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/modules/about/about.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="26" column="36" lean-forward="false" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Podfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/ios/Podfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="436">
+              <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -268,24 +112,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.pbxproj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/project.pbxproj">
+      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/modules/home/home.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3000">
-              <caret line="200" column="59" lean-forward="false" selection-start-line="200" selection-start-column="59" selection-end-line="200" selection-end-column="59" />
+            <state relative-caret-position="180">
+              <caret line="12" column="128" lean-forward="false" selection-start-line="12" selection-start-column="128" selection-end-line="12" selection-end-column="128" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app-routing.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/modules/app-routing.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -330,12 +162,12 @@
         <option value="$PROJECT_DIR$/app/App_Resources/Android/nativescript_google_maps_api.xml" />
         <option value="$PROJECT_DIR$/app/modules/map-example.component.ts" />
         <option value="$PROJECT_DIR$/app/modules/app-routing.module.ts" />
-        <option value="$PROJECT_DIR$/app/modules/home/home.component.ts" />
         <option value="$PROJECT_DIR$/app/modules/shared/side-drawer-page/side-drawer-page.component.ts" />
-        <option value="$PROJECT_DIR$/app/modules/home/home.component.html" />
         <option value="$PROJECT_DIR$/platforms/ios/Podfile" />
         <option value="$PROJECT_DIR$/app/modules/contact/contact.component.ts" />
         <option value="$PROJECT_DIR$/app/modules/app.module.ts" />
+        <option value="$PROJECT_DIR$/app/modules/home/home.component.html" />
+        <option value="$PROJECT_DIR$/app/modules/home/home.component.ts" />
       </list>
     </option>
   </component>
@@ -349,8 +181,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1909" />
-    <option name="y" value="-407" />
+    <option name="x" value="20" />
+    <option name="y" value="27" />
     <option name="width" value="1191" />
     <option name="height" value="755" />
   </component>
@@ -446,7 +278,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="contact" />
+              <option name="myItemId" value="home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -487,10 +319,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="App_Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iOS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -938,15 +766,15 @@
       <workItem from="1490022070122" duration="1164000" />
       <workItem from="1490089470134" duration="588000" />
       <workItem from="1490810076342" duration="263000" />
-      <workItem from="1490889110658" duration="1872000" />
+      <workItem from="1490889110658" duration="9317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27115000" />
+    <option name="totallyTimeSpent" value="34560000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1909" y="-407" width="1191" height="755" extended-state="0" />
+    <frame x="20" y="27" width="1191" height="755" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -967,7 +795,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23257767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24937028" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1011,8 +839,13 @@
           <url>file://$PROJECT_DIR$/app/modules/app-routing.module.ts</url>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/modules/home/home.component.ts</url>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1096,7 +929,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1249,16 +1082,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/home/home.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/modules/shared/side-drawer-page/side-drawer-page.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1294,26 +1117,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/home/home.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/platforms/ios/Podfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/project.pbxproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3000">
-          <caret line="200" column="59" lean-forward="false" selection-start-line="200" selection-start-column="59" selection-end-line="200" selection-end-column="59" />
           <folding />
         </state>
       </provider>
@@ -1326,10 +1133,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firebase.nativescript.json">
+    <entry file="file://$PROJECT_DIR$/app/App_Resources/iOS/GoogleService-Info.plist">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="253">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/project.pbxproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3000">
+          <caret line="200" column="59" lean-forward="false" selection-start-line="200" selection-start-column="59" selection-end-line="200" selection-end-column="59" />
           <folding />
         </state>
       </provider>
@@ -1342,33 +1167,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/App_Resources/iOS/GoogleService-Info.plist">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/about/about.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="26" column="36" lean-forward="false" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/firebase.nativescript.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1384,12 +1183,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/about/about.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/modules/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="424">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="128" lean-forward="false" selection-start-line="12" selection-start-column="128" selection-end-line="12" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1796">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#79#0" expanded="true" />
           </folding>
         </state>
       </provider>

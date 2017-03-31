@@ -10,7 +10,7 @@ import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
 import { MapExampleComponent } from './map-example.component';
 import { SharedModule } from './shared';
-import firebase = require("nativescript-plugin-firebase");
+
 
 @NgModule({
   imports: [
@@ -32,15 +32,5 @@ export class AppModule {
 
 }
 
-firebase.init({
-  // Optionally pass in properties for database, authentication and cloud messaging,
-  // see their respective docs.
-}).then(
-    (instance) => {
-      console.log("firebase.init done");
-    },
-    (error) => {
-      console.log("firebase.init error: " + error);
-    }
-);
+
 

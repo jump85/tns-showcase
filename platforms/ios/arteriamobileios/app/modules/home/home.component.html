@@ -10,7 +10,7 @@
             <Label [text]="countries[selCountry].name" class="m-15 h2 text-left"></Label>
             <Button id="button1" class="btn btn-primary btn-active" text="Primary button" (tap)="toSecondTab()"></Button>
             <Button id="button2" class="btn btn-outline btn-active" text="Mail button" (tap)="onMailButtonPress()"></Button>
-            <Button id="button3" class="btn btn-primary btn-rounded-sm btn-active" text="Small rounded corners"></Button>
+            <Button id="button3" class="btn btn-primary btn-rounded-sm btn-active" text="Google Login" (tap)="doLoginByGoogle()"></Button>
             <Button id="button4" class="btn btn-primary btn-rounded-lg btn-active" text="Large rounded corners"></Button>
         </StackLayout>
         <StackLayout *tabItem="{title: 'List', tabindex: 1}">
