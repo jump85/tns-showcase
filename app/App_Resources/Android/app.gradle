@@ -8,9 +8,18 @@
 android {  
   defaultConfig {  
     generatedDensities = []
+    multiDexEnabled true
     applicationId = "org.nativescript.arteriamobileios"  
-  }  
+  }
+  dexOptions {
+    javaMaxHeapSize "4g"
+  }
+
   aaptOptions {  
     additionalParameters "--no-version-vectors"  
-  }  
+  }
+
+  project.ext {
+    googlePlayServicesVersion = "10.2.+"
+  }
 } 

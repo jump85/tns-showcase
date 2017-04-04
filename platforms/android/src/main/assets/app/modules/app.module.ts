@@ -8,7 +8,9 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
+import { MapExampleComponent } from './map-example.component';
 import { SharedModule } from './shared';
+
 
 @NgModule({
   imports: [
@@ -21,10 +23,14 @@ import { SharedModule } from './shared';
     AppComponent,
     HomeComponent,
     AboutComponent,
-    ContactComponent
+    ContactComponent,
+    MapExampleComponent
   ],
   bootstrap: [AppComponent]
 })
 export class AppModule {
 
 }
+
+
+

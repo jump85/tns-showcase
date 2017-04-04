@@ -2,6 +2,11 @@ import { Component, ChangeDetectionStrategy, ElementRef } from '@angular/core';
 import { SetupItemViewArgs } from "nativescript-angular/directives";
 import * as Notifications from "nativescript-local-notifications";
 
+let firebase: any = require("nativescript-plugin-firebase");
+let dialogs: any = require("ui/dialogs");
+let platform: any = require("platform");
+let utils: any = require("utils/utils");
+
 class Country {
   constructor(public name: string) { }
 }
@@ -33,7 +38,49 @@ export class HomeComponent {
 
   public glyphs = new Array<{ icon: string, code: string }>();
 
+
+
   constructor() {
+    // Firebase initialization
+    let that:any = this;
+    firebase.init({
+      storageBucket: 'gs://tns-firebase-13ef3.appspot.com',
+      persist: true, // optional, default false
+      onAuthStateChanged: function(data) { // optional
+        console.log((data.loggedIn ? "Logged in to firebase" : "Logged out from firebase") + " (init's onAuthStateChanged callback)");
+        if (data.loggedIn) {
+          that.set("useremail", data.user.email ? data.user.email : "N/A");
+        }
+      },
+      // testing push wiring in init for iOS:
+      onPushTokenReceivedCallback: function(token) {
+        // you can use this token to send to your own backend server,
+        // so you can send notifications to this specific device
+        console.log("Firebase plugin received a push token: " + token);
+        // this is for iOS, to copy the token onto the clipboard
+        if (platform.isIOS) {
+          //var pasteboard = utils.ios.getter(UIPasteboard, UIPasteboard.generalPasteboard);
+          //pasteboard.setValueForPasteboardType("[Firebase demo app] Last push token received: " + token, kUTTypePlainText);
+        }
+      },
+      onMessageReceivedCallback: function(message) {
+        console.log("--- message received: " + message);
+        setTimeout(function() {
+          dialogs.alert({
+            title: "Push message!",
+            message: (message.title !== undefined ? message.title : ""),
+            okButtonText: "Sw33t"
+          });
+        }, 500);
+      }
+    }).then(
+        function (result) {
+          console.log("Firebase is ready");
+        },
+        function (error) {
+          console.log("firebase.init error: " + error);
+        }
+    );
 
     this.selectedIndex = 0;
     this.countries = [];
@@ -83,5 +130,33 @@ export class HomeComponent {
 
   public onMailButtonPress(){
     alert("Your email is "+this.email);
+  }
+
+  public onMapsButtonPress(){
+
+  }
+
+  public doLoginByGoogle = function () {
+    console.log("Google login");
+    firebase.login({
+
+      // note that you need to enable Google auth in your firebase instance
+      type: firebase.LoginType.GOOGLE
+    }).then(
+        function (result) {
+          dialogs.alert({
+            title: "Login OK",
+            message: JSON.stringify(result),
+            okButtonText: "Nice!"
+          });
+        },
+        function (errorMessage) {
+          dialogs.alert({
+            title: "Login error",
+            message: errorMessage,
+            okButtonText: "OK, pity"
+          });
+        }
+    );
   }
 }
