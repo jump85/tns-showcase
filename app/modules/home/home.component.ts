@@ -37,19 +37,20 @@ export class HomeComponent {
   public at:Date = new Date(new Date().getTime() + (5*1000));
 
   public glyphs = new Array<{ icon: string, code: string }>();
-
+  public APP_STORAGE = 'gs://tns-firebase-13ef3.appspot.com';
 
 
   constructor() {
     // Firebase initialization
     let that:any = this;
     firebase.init({
-      storageBucket: 'gs://tns-firebase-13ef3.appspot.com',
+      storageBucket: this.APP_STORAGE,
       persist: true, // optional, default false
       onAuthStateChanged: function(data) { // optional
         console.log((data.loggedIn ? "Logged in to firebase" : "Logged out from firebase") + " (init's onAuthStateChanged callback)");
         if (data.loggedIn) {
-          that.set("useremail", data.user.email ? data.user.email : "N/A");
+          this.email =  data.user.email ? data.user.email : "N/A";
+          alert(data.user.email);
         }
       },
       // testing push wiring in init for iOS:
@@ -79,6 +80,18 @@ export class HomeComponent {
         },
         function (error) {
           console.log("firebase.init error: " + error);
+        }
+    );
+
+    firebase.getAuthToken({
+      // default false, not recommended to set to true by Firebase but exposed for {N} devs nonetheless :)
+      forceRefresh: false
+    }).then(
+        function (token) {
+          console.log("Auth token retrieved: " + token);
+        },
+        function (errorMessage) {
+          console.log("Auth token retrieval error: " + errorMessage);
         }
     );
 
