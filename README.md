@@ -12,6 +12,8 @@ and copy the SHA1 fingerprint in your Firebase console.
 
 
 
-Need help? Write me: massafragiovanni@gmail.com
+Need help? Write us:
+- massafragiovanni@gmail.com
+- pako8x@gmail.com
 
 Enjoy it!
