@@ -1,6 +1,6 @@
 # tns-showcase
 
-TNS Showcase is a NativeScript demo app born with purpose to test some features of this framework, integrated with a firebase backend.
+TNS Showcase is a NativeScript demo app,  born with purpose to test some features of this framework using the new introduced support for Angular2 and Typescript and the integration with a firebase backend.
 
 
 
@@ -10,10 +10,10 @@ keytool -exportcert -list -v -alias androiddebugkey -keystore ~/.android/debug.k
 
 and copy the SHA1 fingerprint in your Firebase console.
 
-
+Enjoy it!
 
 Need help? Write us:
 - massafragiovanni@gmail.com
 - pako8x@gmail.com
 
-Enjoy it!
+
