@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 
-import { NativeScriptModule } from 'nativescript-angular/platform';
+import { NativeScriptModule } from 'nativescript-angular/nativescript.module';
 import { SIDEDRAWER_DIRECTIVES } from 'nativescript-telerik-ui/sidedrawer/angular';
 
 import { SideDrawerPageComponent } from './side-drawer-page';
